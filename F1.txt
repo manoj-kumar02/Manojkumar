@@ -1,0 +1,21 @@
+D:\FRONTEND>git config --global user.email "2400033106@kluniversity.in"
+2D:\FRONTEND> git config --global user.name "manoj-kumar02"
+D:\FRONTEND>git add
+D:\FRONTEND>git commit -m "Initial commit"
+[master (root-commit) 6dab514] Initial commit
+1 file changed, 10 insertions(+)
+create mode 100644 sample.html
+D:\FRONTEND>git remote add origin https://github.com/manoj-kumar02/FRONTEND.git
+error: remote origin already exists.
+D:\FRONTEND>git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/manoj-kumar02/FRONTEND.git'
+error: failed to push some refs to 'https://github.com/manoj-kumar02/FRONTEND.git'
+D:\FRONTEND>git psuh -u origin master
+git: 'push' is not a git command. See 'git --help'.
+The most similar command is
+push
+D:\FRONTEND>git push -u origin master
+branch 'master' set up to track 'origin/master'.
+Everything up-to-date
+D:\FRONTEND>anoj-
